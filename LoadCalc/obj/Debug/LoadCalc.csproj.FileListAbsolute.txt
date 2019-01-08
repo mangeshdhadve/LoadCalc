@@ -1,0 +1,9 @@
+c:\users\705984\source\repos\LoadCalc\LoadCalc\bin\Debug\LoadCalc.dll
+c:\users\705984\source\repos\LoadCalc\LoadCalc\bin\Debug\LoadCalc.pdb
+c:\users\705984\source\repos\LoadCalc\LoadCalc\obj\Debug\LoadCalc.csprojAssemblyReference.cache
+c:\users\705984\source\repos\LoadCalc\LoadCalc\obj\Debug\LoadCalc.csproj.GenerateResource.cache
+c:\users\705984\source\repos\LoadCalc\LoadCalc\obj\Debug\LoadCalc.csproj.CoreCompileInputs.cache
+c:\users\705984\source\repos\LoadCalc\LoadCalc\obj\Debug\LoadCalc.dll
+c:\users\705984\source\repos\LoadCalc\LoadCalc\obj\Debug\LoadCalc.pdb
+c:\users\705984\source\repos\LoadCalc\LoadCalc\obj\Debug\LoadCalc.ucMain.resources
+c:\users\705984\source\repos\LoadCalc\LoadCalc\obj\Debug\LoadCalc.Properties.Resources.resources
